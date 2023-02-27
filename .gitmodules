@@ -1,0 +1,6 @@
+[submodule "chatapp-frontend"]
+	path = chatapp-frontend
+	url = https://github.com/WindyWin/chatapp-frontend
+[submodule "chatapp-backend"]
+	path = chatapp-backend
+	url = https://github.com/WindyWin/chatapp-backend
